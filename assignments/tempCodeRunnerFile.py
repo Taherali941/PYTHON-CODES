@@ -1,0 +1,1 @@
+print(f"logical not {not a >
